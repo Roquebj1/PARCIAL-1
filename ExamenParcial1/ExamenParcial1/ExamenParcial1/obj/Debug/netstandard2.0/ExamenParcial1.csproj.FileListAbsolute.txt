@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\bin\Debug\netstandard2.0\ExamenParcial1.deps.json
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\bin\Debug\netstandard2.0\ExamenParcial1.dll
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\bin\Debug\netstandard2.0\ref\ExamenParcial1.dll
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\bin\Debug\netstandard2.0\ExamenParcial1.pdb
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\ExamenParcial1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\ExamenParcial1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\ExamenParcial1.AssemblyInfo.cs
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\ExamenParcial1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\ExamenParcial1.dll
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\ref\ExamenParcial1.dll
+C:\Users\HP\Desktop\ExamenParcial1\ExamenParcial1\ExamenParcial1\obj\Debug\netstandard2.0\ExamenParcial1.pdb

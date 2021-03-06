@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQ/AjyB1+Yy+ZPdSJWlZb3qnmubkNIpWx0doEEIsQxW98QlWXN1Dt4knJ0xgqefysyX+dfvkHD+68VzNPHtrfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ExamenParcial1\\ExamenParcial1\\ExamenParcial1\\ExamenParcial1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
