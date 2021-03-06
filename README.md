@@ -1,0 +1,2 @@
+# PARCIAL1
+ CÓDIGOS
