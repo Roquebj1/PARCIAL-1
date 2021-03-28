@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\bin\Debug\netcoreapp3.1\TareaCARRO.exe
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\bin\Debug\netcoreapp3.1\TareaCARRO.deps.json
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\bin\Debug\netcoreapp3.1\TareaCARRO.runtimeconfig.json
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\bin\Debug\netcoreapp3.1\TareaCARRO.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\bin\Debug\netcoreapp3.1\TareaCARRO.dll
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\bin\Debug\netcoreapp3.1\TareaCARRO.pdb
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.Form1.resources
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.AssemblyInfo.cs
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.dll
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.pdb
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.genruntimeconfig.cache
+C:\Users\HP\Desktop\TareaCARRO\TareaCARRO\obj\Debug\netcoreapp3.1\TareaCARRO.Properties.Resources.resources

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\GitHub\\PARCIAL1\\TAREA5 EXPLICACIÓN DE LOS 3 CÓDIGOS\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj": {}
+    "C:\\Users\\HP\\Desktop\\TareaCARRO\\TareaCARRO\\TareaCARRO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\GitHub\\PARCIAL1\\TAREA5 EXPLICACIÓN DE LOS 3 CÓDIGOS\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj": {
+    "C:\\Users\\HP\\Desktop\\TareaCARRO\\TareaCARRO\\TareaCARRO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\PARCIAL1\\TAREA5 EXPLICACIÓN DE LOS 3 CÓDIGOS\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
-        "projectName": "Ejercicio3",
-        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\PARCIAL1\\TAREA5 EXPLICACIÓN DE LOS 3 CÓDIGOS\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\TareaCARRO\\TareaCARRO\\TareaCARRO.csproj",
+        "projectName": "TareaCARRO",
+        "projectPath": "C:\\Users\\HP\\Desktop\\TareaCARRO\\TareaCARRO\\TareaCARRO.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\PARCIAL1\\TAREA5 EXPLICACIÓN DE LOS 3 CÓDIGOS\\Ejercicio3\\Ejercicio3\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\TareaCARRO\\TareaCARRO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -56,6 +56,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
